@@ -1,18 +1,21 @@
 package com.serik.services;
 
+import com.oracle.webservices.internal.api.databinding.DatabindingMode;
 import com.serik.interfaces.Course;
 import com.serik.interfaces.ExtraSessions;
+import lombok.Data;
 
+@Data
 public class Java implements Course {
-    //OfficeHours officeHours;
-    ExtraSessions extraSessions;
+   private ExtraSessions extraSessions;
 
-//    public Java(OfficeHours officeHours) {
+//    public OfficeHours getOfficeHours() {
+//        return officeHours;
+//    }
+//
+//    public void setOfficeHours(OfficeHours officeHours) {
 //        this.officeHours = officeHours;
 //    }
-    public Java(ExtraSessions extraSessions) {
-        this.extraSessions = extraSessions;
-    }
 
     @Override
     public void getTeachingHours() {
