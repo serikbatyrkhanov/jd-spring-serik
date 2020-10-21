@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/Spring-02-DI-ConstructorInjection/Spring-02-DI-ConstructorInjection.iml" filepath="$PROJECT_DIR$/Spring-02-DI-ConstructorInjection/Spring-02-DI-ConstructorInjection.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring-02-DI-SetterInjection/Spring-02-DI-SetterInjection.iml" filepath="$PROJECT_DIR$/Spring-02-DI-SetterInjection/Spring-02-DI-SetterInjection.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring-03-BeanScope-Singleton-Prototype/Spring-03-BeanScope-Singleton-Prototype.iml" filepath="$PROJECT_DIR$/Spring-03-BeanScope-Singleton-Prototype/Spring-03-BeanScope-Singleton-Prototype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-04-BeanLifeCycle-Init-and-Destroy-methods/Spring-04-BeanLifeCycle-Init-and-Destroy-methods.iml" filepath="$PROJECT_DIR$/Spring-04-BeanLifeCycle-Init-and-Destroy-methods/Spring-04-BeanLifeCycle-Init-and-Destroy-methods.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/jd-spring-serik.iml" filepath="$PROJECT_DIR$/.idea/jd-spring-serik.iml" />
     </modules>
   </component>

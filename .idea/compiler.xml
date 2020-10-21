@@ -10,13 +10,15 @@
         <module name="Spring-01-SpringContainer" />
         <module name="Spring-03-BeanScope-Singleton-Prototype" />
         <module name="Spring-02-DI-ConstructorInjection" />
+        <module name="Spring-04-BeanLifeCycle-Init-and-Destroy-methods" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Spring-01-SpringContainer" target="1.8" />
       <module name="Spring-02-DI-ConstructorInjection" target="1.8" />
       <module name="Spring-02-DI-SetterInjection" target="1.8" />
-      <module name="Spring-03-BeanScope-Singleton-Prototype" target="6" />
+      <module name="Spring-03-BeanScope-Singleton-Prototype" target="1.8" />
+      <module name="Spring-04-BeanLifeCycle-Init-and-Destroy-methods" target="6" />
     </bytecodeTargetLevel>
   </component>
 </project>
