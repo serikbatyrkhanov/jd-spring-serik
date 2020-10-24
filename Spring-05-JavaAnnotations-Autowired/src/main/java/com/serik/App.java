@@ -11,10 +11,5 @@ public class App {
         Course course = container.getBean("java",Course.class);
         course.getTeachingHours();
 
-        Course course2 = container.getBean("selenium",Course.class);
-        course2.getTeachingHours();
-
-        Course course3 = container.getBean("api",Course.class);
-        course3.getTeachingHours();
     }
 }
