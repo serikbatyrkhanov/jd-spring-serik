@@ -22,6 +22,7 @@
         <module name="Spring-05-JavaAnnotations-Component" />
         <module name="Spring-08-SpringBoot-MVC-Controller" />
         <module name="Spring-02-DI-ConstructorInjection" />
+        <module name="Spring-09-SQL-Review" />
         <module name="Spring-05-JavaAnnotations-Qualifier" />
       </profile>
     </annotationProcessing>
@@ -43,6 +44,7 @@
       <module name="Spring-08-SpringBoot-MVC-Controller" target="1.8" />
       <module name="Spring-08-SpringBoot-MVC-Model-View(Thymeleaf)" target="1.8" />
       <module name="Spring-08-SrpingBoot-MVC-Form" target="1.8" />
+      <module name="Spring-09-SQL-Review" target="1.5" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
